@@ -18,6 +18,7 @@ $date = date('Y-m-d');
     <h1>Studi Independen</h1>
     <p>Today's date is <?php echo $date ?> </p>
     <p>Number <?php echo $number ?> </p>
+    <hr>
 </body>
 
 </html>
