@@ -16,7 +16,7 @@ $date = date('Y-m-d');
 
 <body>
     <h1>Studi Independen</h1>
-    <p>Today's date is <?php echo $date ?> </p>
+    <p>Today's date is <?php echo $date ?>
     <p>Number <?php echo $number ?> </p>
     <hr>
 </body>
